@@ -2,7 +2,7 @@
 Snake game in the C programming language for the ZX Spectrum computer.\
 The game has four levels of varying difficulty.
 
-![](https://github.com/celtrecium/snek/raw/master/demo.webp)
+![](https://github.com/celtrecium/snek/raw/master/demo.gif)
 
 # Build
 To build, you will need the `zcc` compiler from the [z88dk kit](https://github.com/z88dk/z88dk)
